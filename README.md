@@ -1,12 +1,12 @@
-<h1> Pong-game <\h1>
+<h1> Pong-game </h1>
 
 This is a basic implementation of the Atari Pong game, but it's missing a few things intentionally and they're left as further exploration for the reader.
 
 ![image](https://user-images.githubusercontent.com/89170789/221023348-41e9af6b-1d81-462e-9118-792aef77447f.png)
 
-<h1>Further Exploration<\h1>
+<h1>Further Exploration</h1>
 
-<h2>Score<\h2>
+<h2>Score</h2>
 
 When a ball goes past a paddle, the other player should score a point. Use context.fillText() to display the score to the screen
 Mobile and touchscreen support
